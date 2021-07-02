@@ -27,7 +27,7 @@ Full Game
 
 
 ## Donate
-![Donation Logo](https://www.iconspng.com/uploads/donate-now-paypal-and-cards-button.png)
+![Donation Logo](https://hardikanand1st.github.io/assets//donate-now-paypal-and-cards-button.png)
 [Donation Link](https://www.hardik.live/donate "Donate")  
 
 ## License
