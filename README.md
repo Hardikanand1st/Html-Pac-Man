@@ -1,4 +1,4 @@
-![LibreSpeed Logo](https://hardikanand1st.github.io/Html-Pac-Man/preview.png)
+![Pac Man Logo](https://hardikanand1st.github.io/Html-Pac-Man/preview.png)
 
 # LibreSpeed
 
@@ -15,16 +15,8 @@ All modern browsers are supported: IE11, latest Edge, latest Chrome, latest Fire
 Works with mobile versions too.
 
 ## Features
-* Download
-* Upload
-* Ping
-* Jitter
-* IP Address, ISP, distance from server (optional)
-* Telemetry (optional)
-* Results sharing (optional)
-* Multiple Points of Test (optional)
 
-![Screenshot](https://speedtest.fdossena.com/mpot_v6.gif)
+Full Game
 
 
 ## Server requirements
@@ -33,37 +25,9 @@ Works with mobile versions too.
 * MySQL database to store test results (optional, PostgreSQL and SQLite also supported)
 * A fast! internet connection
 
-## Installation videos
-* [Quick start installation guide for Ubuntu Server 19.04](https://fdossena.com/?p=speedtest/quickstart_v5_ubuntu.frag)
-
-## Android app
-A template to build an Android client for your LibreSpeed installation is available [here](https://github.com/librespeed/speedtest-android).
-
-## Docker
-A docker image is available on the [Docker Hub](https://registry.hub.docker.com/r/adolfintel/speedtest), see `doc_docker.md` for more info about it
-
-## Go backend
-A Go implementation is available in the [`speedtest-go`](https://github.com/librespeed/speedtest-go) repo, maintained by [Maddie Zhan](https://github.com/maddie).
-
-## Node.js backend
-A partial Node.js implementation is available in the `node` branch, developed by [dunklesToast](https://github.com/dunklesToast). It's not recommended to use at the moment.
 
 ## Donate
-[![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
-[Donate with PayPal](https://www.paypal.me/sineisochronic)  
+[Donate](https://www.iconspng.com/uploads/donate-now-paypal-and-cards-button.png)](hardik.live/donate)  
 
 ## License
-Copyright (C) 2016-2021 Federico Dossena
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Lesser General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU Lesser General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/lgpl>.
+[GNU General Public License v2.0](![image](https://user-images.githubusercontent.com/72273900/124247056-267bc400-db3f-11eb-821a-74bdf421c8ea.png))](https://github.com/Hardikanand1st/Html-Pac-Man/blob/main/LICENSE)  
