@@ -31,4 +31,4 @@ Full Game
 [Donation Link](https://www.hardik.live/donate "Donate")  
 
 ## License
-[GNU General Public License v2.0](![image](https://user-images.githubusercontent.com/72273900/124247056-267bc400-db3f-11eb-821a-74bdf421c8ea.png))](https://github.com/Hardikanand1st/Html-Pac-Man/blob/main/LICENSE)  
+[GNU General Public License v2.0](https://github.com/Hardikanand1st/Html-Pac-Man/blob/main/LICENSE)
