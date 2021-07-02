@@ -1,13 +1,14 @@
-![LibreSpeed Logo](https://github.com/librespeed/speedtest/blob/master/.logo/logo3.png?raw=true)
+![LibreSpeed Logo](https://hardikanand1st.github.io/Html-Pac-Man/preview.png)
 
 # LibreSpeed
 
-No Flash, No Java, No Websocket, No Bullshit.
+Pac-Man
 
-This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers.
+Pac-Man game written in HTML5 + CSS3 + jQuery with Canvas. This WebApp is a Responsive Web Design (RWD) website.
+
 
 ## Try it
-[Take a Speedtest](https://librespeed.org)
+[Play](https://hardikanand1st.github.io/Html-Pac-Man/)
 
 ## Compatibility
 All modern browsers are supported: IE11, latest Edge, latest Chrome, latest Firefox, latest Safari.  
