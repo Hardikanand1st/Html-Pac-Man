@@ -1,4 +1,4 @@
-![Pac Man Logo](https://hardikanand1st.github.io/Html-Pac-Man/img/preview.png)
+![Pac Man Logo](https://hardikanand1st.github.io/Html-Pac-Man/img/preview1.png)
 
 # Pac Man
 
