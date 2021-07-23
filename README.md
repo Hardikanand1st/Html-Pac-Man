@@ -32,4 +32,4 @@ Full Game
 
 ## License
 <img src="https://user-images.githubusercontent.com/72273900/126739421-248d5bb4-8e93-4b7d-955e-095c96105f46.png" alt="Logo" width="160" height="160" />
-[Creative Commons Zero v1.0 Universal](https://github.com/Hardikanand1st/Html-Pac-Man/blob/main/LICENSE)
+[Creative Commons Zero v1.0 Universal] (https://github.com/Hardikanand1st/Html-Pac-Man/blob/main/LICENSE)
