@@ -26,9 +26,8 @@ Full Game
 
 
 ## Donate
-![Donation Logo](https://hardikanand1st.github.io/assets//donate-now-paypal-and-cards-button.png)
-
-[Donation Link](https://www.hardik.live/donate "Donate")  
+<script src="https://liberapay.com/hardikanand1st/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/hardikanand1st/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## License
 <img src="https://user-images.githubusercontent.com/72273900/126739421-248d5bb4-8e93-4b7d-955e-095c96105f46.png" alt="Logo" width="" height="" />
