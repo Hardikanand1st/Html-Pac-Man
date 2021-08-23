@@ -26,7 +26,6 @@ Full Game
 
 
 ## Donate
-<script src="https://liberapay.com/hardikanand1st/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/hardikanand1st/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## License
