@@ -25,10 +25,14 @@ Full Game
 * A fast! internet connection
 
 
-## Donate
+❤️ Donate
+<br><br>
 <noscript><a href="https://liberapay.com/hardikanand1st/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <br>
 <noscript><a href="https://www.patreon.com/HardikAnand"><img alt="Donate using Pateron" src="https://user-images.githubusercontent.com/72273900/130895407-bd1c1644-1e50-400e-8fed-57e1787aa731.png"></a></noscript>
+
+🖱 [Support](https://hardik.live/support)
+(by, clicking support button again and again)
 
 ## License
 <img src="https://user-images.githubusercontent.com/72273900/126739421-248d5bb4-8e93-4b7d-955e-095c96105f46.png" alt="Logo" width="" height="" />
