@@ -25,7 +25,7 @@ Full Game
 * A fast! internet connection
 
 
-❤️ Donate
+## ❤️ Donate
 <br><br>
 <noscript><a href="https://liberapay.com/hardikanand1st/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <br>
