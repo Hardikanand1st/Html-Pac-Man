@@ -26,13 +26,14 @@ Full Game
 
 
 ## 🔥 Show Your Support
-<h1 id="Donate"</h1>
 
+<h1 id="Donate"</h1>
 <noscript><a href="https://liberapay.com/hardikanand1st/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <br>
 <noscript><a href="https://www.patreon.com/HardikAnand"><img alt="Donate using Pateron" src="https://user-images.githubusercontent.com/72273900/130895407-bd1c1644-1e50-400e-8fed-57e1787aa731.png"></a></noscript>
 <br>
-🖱 [Support](https://hardik.live/support)
+
+🖱[Support](https://hardik.live/support)
 (by, clicking support button again and again)
 
 ## License
